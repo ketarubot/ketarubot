@@ -39,8 +39,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ketarubot&bg_color=60,4facfe,00f2fe&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketarubot&layout=compact&bg_color=60,4facfe,00f2fe&title_color=ffffff&text_color=ffffff"
-           /> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ketarubot)](https://solved.ac/ketarubot)</div> 
+           /> <a href="https://solved.ac/ketarubot">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ketarubot" alt="Solved.ac Profile"/>
+</a> </div>
     </div>
     
 
