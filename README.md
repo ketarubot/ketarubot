@@ -7,7 +7,6 @@
       <p>안녕하세요! 저는 <strong>정확함과 성장</strong>을 중요하게 여기는 개발자 지망생 <strong>김태훈</strong>입니다.</p>
       <ul>
         <li>💡 다양한 기술 스택을 탐구하며, 잘못된 정보를 분별하고 <strong>사실 기반의 사고</strong>를 바탕으로 꾸준히 실력을 키우고 있습니다.</li>
-        <li>💻 <strong>Java & Spring, Python, C, JavaScript/TypeScript, React, TailwindCSS</strong> 등 여러 언어와 프레임워크에 관심이 있으며, <strong>개념을 명확하게 이해하려는 집요함</strong>이 저의 강점입니다.</li>
         <li>🌱 <strong>UI/UX, 소통, 협업 경험</strong>에도 관심이 많아 팀 프로젝트와 실제 개발 환경에서 더 깊은 성장을 이루고 싶습니다.</li>
         <li>🎯 “<em>틀려도 괜찮지만, 틀린 채로 남고 싶진 않다</em>”는 마음으로 항상 피드백을 구하고, 개선해 나가고 있습니다.</li>
       </ul>
